@@ -12,7 +12,7 @@ git clone --depth 1 https://github.com/renjeik/fusion_base.git
 
 If you need multiple python version in your local machine, you can setup a virtual environment for each version.
 
-The enviroment that we are going to use throughout this course is Anaconda.
+The enviroment that we are going to use throughout this project is Anaconda.
 
 Download and install it conda, from https://www.anaconda.com/.
 
@@ -36,7 +36,7 @@ You will notice that the name of the current activated name is shown in the comm
 
 Make sure to check the name of the environment everytime you run a command in a terminal.
 
-Within the terminal, direct yourself to fusion_base's folder and continue with installation of requirements and starting jupyter notebook as mentioned above, i.e.
+Within the terminal, direct yourself to fusion_base's folder and continue with installation of requirements.
 
 ```bash
 pip install -r requirements.txt
