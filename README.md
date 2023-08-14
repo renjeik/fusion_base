@@ -16,7 +16,7 @@ The enviroment that we are going to use throughout this project is Anaconda.
 
 Download and install it conda, from https://www.anaconda.com/.
 
-Open a terminal and create an environment using the command:
+Open Anaconda Prompt/Terminal and create an environment using the command:
 
 ```bash
 conda create --name <NAME OF ENVIRONMENT> python=3.11.4 -y
