@@ -1,6 +1,6 @@
 # Fusionbase RESTful API using Flask
 
-## Quick Start
+## Cloning
 
 Clone the repo:
 
@@ -35,6 +35,8 @@ You will notice that the name of the current activated name is shown in the comm
 ```
 
 Make sure to check the name of the environment everytime you run a command in a terminal.
+
+## Setup
 
 Within the terminal, direct yourself to fusion_base's folder and continue with installation of requirements.
 
